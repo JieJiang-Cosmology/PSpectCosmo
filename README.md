@@ -5,6 +5,10 @@ Below is the English translation of the `README.md` file for your `PSpectCosmo` 
 
 `PSpectCosmo` is a C++ program developed to investigate early-universe cosmological dynamics, with a specific emphasis on the inflationary epoch. The program depends on the `fftw3` and `hdf5` libraries for fast Fourier transforms and efficient data storage. Users can configure models and parameters by modifying the `model.h` and `parameters.h` files.
 
+For more details on the methodology and its applications, see my article:  
+**"PSpectCosmo: A Pseudo-Spectral Code for Cosmological Dynamics Spanning Inflation and Reheating"**  
+Available on arXiv: [arXiv:2411.17658](http://arxiv.org/abs/2411.17658).
+
 ## Features
 
 - **Fast Fourier Transform (FFT)**: Utilizes `fftw3` for efficient Fourier transform computations.
@@ -70,7 +74,7 @@ Follow these steps to install and run the program:
 
 ## File Structure
 
-- **`main.cpp`**: Entry point of the program.
+- **`psectcosmo.cpp`**: Entry point of the program.
 - **`model.h`**: Contains model configurations.
 - **`parameters.h`**: Contains parameters for running the program.
 - **`Makefile`**: Build configuration for compiling the program.

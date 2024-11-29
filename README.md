@@ -153,5 +153,3 @@ Feel free to submit issues or create pull requests to improve this project. You 
 
 This project is licensed under the [MIT License](LICENSE). For more details, see the `LICENSE` file.
 ```
-
-Replace `your-username` and `your-email@example.com` with your actual GitHub username and email address. Adjust the content further if needed to match your project's specific requirements.

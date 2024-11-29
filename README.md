@@ -1,5 +1,3 @@
-Below is the English translation of the `README.md` file for your `PSpectCosmo` project:
-
 ```markdown
 # PSpectCosmo
 
